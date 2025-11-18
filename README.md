@@ -166,7 +166,7 @@ Escolha entre dois modos:
 - Logo personalizável
 - Créditos do criador
 
-### [1.0.0] - 2024-01-14
+### [1.0.0] - 2025-11-17
 #### Adicionado
 - Versão inicial da calculadora
 
