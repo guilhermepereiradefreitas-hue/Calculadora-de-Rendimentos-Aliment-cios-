@@ -145,7 +145,7 @@ Escolha entre dois modos:
 
 ## 📋 Changelog
 
-### [3.0.0] - 2024-01-15
+### [3.0.0] - 2025-11-17
 #### Adicionado
 - Dois modos de cálculo: Rendimento (%) e Unidades
 - Campo "Unidades Produzidas" para cálculo por quantidade
@@ -159,7 +159,7 @@ Escolha entre dois modos:
 - Flexibilidade para diferentes tipos de produtos
 - Cálculos mais precisos para produção em unidades
 
-### [2.0.0] - 2024-01-15
+### [2.0.0] - 2025-11-17
 #### Adicionado
 - Exportação para Excel
 - Botão de download do README
